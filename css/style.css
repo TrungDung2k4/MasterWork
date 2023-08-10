@@ -1022,7 +1022,7 @@ button.navbar-toggler.collapsed .icon-expand {
     width: 100%;
   }
   .masterworkComments__left {
-    transform: translateX(165%);
+    margin: 0 auto;
   }
 }
 @media screen and (max-width: 575.98px) {
