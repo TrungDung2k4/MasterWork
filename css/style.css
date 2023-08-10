@@ -1006,6 +1006,9 @@ button.navbar-toggler.collapsed .icon-expand {
   .footer__bottom h5 {
     margin-bottom: 20px;
   }
+  .footer__networks {
+    margin-top: 25px;
+  }
 }
 @media screen and (max-width: 767.98px) {
   .footer__item {
